@@ -1,0 +1,13 @@
+{
+  "name": "bit torrent download in aria2",
+  "description": "download download download",
+  "version": "0.1",
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "permissions": [
+    "downloads"
+  ],
+  "manifest_version": 2
+}
